@@ -1,0 +1,55 @@
+div{
+    padding: 1px;
+    border: 5px;
+    border-style: solid;
+    background-color: grey;
+
+}
+body{
+    background-image: url(../powerpoint-math-for-kids-background-design-template-9c7101e6f62f51589b70148f650f4f6e_screen.jpg);
+}
+ 
+table{
+    border-style: solid;
+}
+
+
+input[type="text"]{
+    width: 320px;
+    height: 70px;
+    border-radius: 15px;
+    text-align: right;
+    border-top: 10px;
+    border-right: 10px;
+    border-left: 10px;
+    border-bottom: 10px;
+    border-style: solid;
+    border-color: black;
+    background-color:azure;
+}
+input[type="button"]{
+    width: 50px;
+    height: 55px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    border-radius: 15px;
+    text-shadow: 100px;
+    margin: 5px;
+    shape-margin: 300px;
+    border:4px solid black;
+    background-color: gray;
+    color: white;
+}
+input:hover{
+    background-color:rgba(231, 201, 201, 0.633) ;
+}
+table{
+    border:9px solid black;
+    border-radius: 15px;
+    background-color:rgba(0, 0, 0, 0.068);
+}
+h1{
+    background-color: black;
+    color: white;
+}
